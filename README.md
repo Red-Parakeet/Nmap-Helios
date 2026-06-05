@@ -134,3 +134,5 @@ Nmap-Helios is licensed under the [GNU General Public License](LICENSE) and the 
 ## Disclaimer
 
 This tool is intended for **authorized security assessments only**. Do not use against systems you do not have explicit permission to test. The authors accept no liability for misuse.
+
+**Nmap-Helios** | © 2026 RedParakeet Security Team | All Rights Reserved
