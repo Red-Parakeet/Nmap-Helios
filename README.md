@@ -3,7 +3,7 @@
   <img src="logo.svg" width="160" height="160" alt="Nmap Helios Logo" />
 </p> 
 
-**Multi-Scan Intelligence Platform** — A professional Nmap XML visualizer built for red teamers and pentesters.
+**Open Source Multi-Scan Intelligence Platform** — A professional Nmap XML visualizer built for red teamers and pentesters.
 
 > Inspired by the work of [sumanrox](https://sumanrox.github.io/)  
 > Built by [The-Psypher](https://github.com/The-Psypher) & [Adrilaw](https://github.com/Adrilaw)
